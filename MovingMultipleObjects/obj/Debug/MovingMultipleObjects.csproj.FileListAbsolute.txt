@@ -1,0 +1,9 @@
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\bin\Debug\MovingMultipleObjects.exe.config
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\bin\Debug\MovingMultipleObjects.exe
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\bin\Debug\MovingMultipleObjects.pdb
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\obj\Debug\MovingMultipleObjects.csprojResolveAssemblyReference.cache
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\obj\Debug\MovingMultipleObjects.Form1.resources
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\obj\Debug\MovingMultipleObjects.Properties.Resources.resources
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\obj\Debug\MovingMultipleObjects.csproj.GenerateResource.Cache
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\obj\Debug\MovingMultipleObjects.exe
+c:\users\abel\documents\visual studio 2017\Projects\MovingMultipleObjects\MovingMultipleObjects\obj\Debug\MovingMultipleObjects.pdb
