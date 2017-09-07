@@ -5,3 +5,4 @@ maybe when they win or during a bonus round. The logic behind it has not been to
 
 I have pushed what I have done so far but plan on completing this shortly once I have a moment to work on it again. 
 
+![alt text](https://github.com/abelberhane/MovingMultipleObjectsProject/blob/master/Images/Screenshots/InitialSH.png?raw=true)
