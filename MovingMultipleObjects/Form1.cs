@@ -19,6 +19,9 @@ namespace MovingMultipleObjects
         int L2x = 5;
         int L2y = 5;
 
+        int L3x = 5;
+        int L3y = 5;
+
         public Form1()
         {
             InitializeComponent();
@@ -61,6 +64,25 @@ namespace MovingMultipleObjects
                 L2y = -L2y;
             }
             // Label 2 Movement Logic Complete
+
+
+
+            // Label 3 Movement Logic Begins
+            label3.Left += L3x;
+            label3.Top += L3y;
+
+            // Inverts Direction if the label hits the border Width from left to right
+            if (label3.Left + label3.Width > ClientSize.Width || label3.Left < 0)
+            {
+                L3x = -L3x;
+            }
+
+            // Inverts Direction if the labe hits the border Height from top to bottom
+            if (label3.Top + label3.Height > ClientSize.Height || label3.Top < 0)
+            {
+                L3y = -L3y;
+            }
+            // Label 3 Movement Logic Complete
         }
     }
 }
